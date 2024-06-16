@@ -1,4 +1,3 @@
-![изображение](https://github.com/qqwince/EasyRoll/assets/143921411/c9e8aae3-bc0f-4c1a-8fc2-f675be8eea4e)# EasyRoll
 This script allow you to get any needed roll in roll20.net.
 
 === INSTRUCTION ===
